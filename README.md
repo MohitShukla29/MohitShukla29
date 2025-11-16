@@ -9,11 +9,8 @@
 
 ## 🚀 About Me
 - 👨‍💻 Passionate **Flutter Developer**  
-- 🔥 Interested in **AI-driven applications**, **Full Stack Development**, and **Cloud**  
-- 🎯 Exploring **Node.js**, **Next.js**, and **LLMs**  
-- 📚 Always learning, building, and improving  
-- 💼 Preparing for developer internships  
-
+- 🔥 Interested in **AI-driven applications** and **LLMs** 
+- 📚 Always learning, building, and improving
 ---
 
 ## 🛠️ Tech Stack
@@ -38,24 +35,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Airbnb Clone – Flutter App**
-A property discovery app with filters, stays, detailed UI, and Firebase backend.
-
-### 🔹 **Weather Dashboard (Flutter)**
-Responsive UI with **OpenWeatherMap API**, local caching, Provider state management.
-
-### 🔹 **AI-Powered Healthcare MVP (Hackathon)**
-- Structured anamnesis chatbot  
-- Clinical report generation  
-- Secure login & onboarding  
-- Firestore + GPT/Gemini integration  
-
-### 🔹 **PDF Question Generator (React + LLM)**
-Uploads a PDF and generates question papers based on difficulty + marks.
-
----
 
 ## 📊 GitHub Analytics
 
@@ -77,7 +56,7 @@ Uploads a PDF and generates question papers based on difficulty + marks.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:mohitshukla@example.com">
+  <a href="mailto:mohitshukla2004.ms@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

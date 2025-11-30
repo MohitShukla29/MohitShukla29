@@ -57,7 +57,7 @@
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/MohitShukla29/snake/blob/output/github-contribution-grid-snake-dark.svg"
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
  />
 </p>
 
